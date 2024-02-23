@@ -2,6 +2,7 @@
 This study is dedicated to examining the influence of different diets and the progression of time on the protein percentage in cow milk.
 
 Summary
+
 For the requirements of Assignment 5 in the Analysis of Correlated Data: Mixed Linear
 Models class, a detailed statistical analysis was conducted. The primary objective of this
 study was to investigate the impact of different diets and the progression of time on the
